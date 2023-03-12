@@ -5,7 +5,7 @@ First phase of AirBnB clone Project. In this phase the project team developed co
 ## How to start
 Inorder to start the console applications use
 `./console.py`
-## How to use
+## How to use it
 - **help command**:
   Help command helps user to understand each one of the commands available. List avilable commands by typing:
   
