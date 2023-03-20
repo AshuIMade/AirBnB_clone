@@ -1,11 +1,11 @@
 # AirBnB clone Project
 AirBnB team project 
-# Description
+# Description about the project
 First phase of AirBnB clone Project. In this phase the project team developed command line application to manage instances of AirBnB Project such as Places, Cities, Users, Amenities and Reviews that are based on class called BaseModel. The command line application can be used to create, Update, Retrive and count and remove object instance as needed.  
 ## How to start
 Inorder to start the console applications use
 `./console.py`
-## How to use
+## How to use it
 - **help command**:
   Help command helps user to understand each one of the commands available. List avilable commands by typing:
   
